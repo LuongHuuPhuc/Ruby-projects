@@ -22,6 +22,10 @@ I will update all my Ruby projects on this.
  * RubyGems là trình quản lý các packages (gói mở rộng)/ thư viện cho ngôn ngữ Ruby.
 
 *** 
-# Cách setup và cài đặt Ruby trên Windows 
-[Hướng dẫn cài đặt](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails).
-
+# Cách setup và cài đặt Rails trên Windows 
+* [Hướng dẫn cài đặt](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails)
+* Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
+  1. Ruby
+  2. SQLite3
+* [Cài đặt Ruby](https://rubyinstaller.org/)
+* [Cài đặt SQLite3](https://www.sqlite.org/)
