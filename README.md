@@ -13,4 +13,15 @@ I will update all my Ruby projects on this.
 * Ruby chủ yếu được sử dụng để xây dựng các ứng dụng web và rất hữu ích cho các dự án lập trình khác, thường được sử dụng rộng rãi để xây dựng máy chủ và xử lý dữ liệu, quét web và thu thập thông tin
 * Framework hàng đầu để chạy Ruby là Ruby on Rails, mặc dù nó không phải là khung duy nhất.
 
+# Điều cần biết về Ruby và Ruby on Rais
+
+ * Ruby là một ngôn ngữ lập trình có web framework(khung) hộ trợ là Ruby on Rails hay Rails.
+ * Gems còn được biết là các thư viện của Ruby.
+ * Rails cũng được xem là một Gem.
+ * Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database).
+ * RubyGems là trình quản lý các packages (gói mở rộng)/ thư viện cho ngôn ngữ Ruby.
+
+*** 
 # Cách setup và cài đặt Ruby trên Windows 
+[Hướng dẫn cài đặt](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails).
+
