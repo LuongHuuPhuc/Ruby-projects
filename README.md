@@ -17,7 +17,7 @@ I will update all my Ruby projects on this.
 
  * Ruby là một ngôn ngữ lập trình có web framework(khung) hộ trợ là Ruby on Rails hay Rails.
  * Gems còn được biết là các thư viện của Ruby.
- * * Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
+ *  Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
  * Rails cũng được xem là một Gem.
  * RubyGems là trình quản lý các packages (gói mở rộng)/ thư viện cho ngôn ngữ Ruby.
 
