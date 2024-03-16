@@ -1,6 +1,6 @@
 # Ruby-projects
 I will update all my Ruby projects on this.
- ``` print("Hello, World)```
+ ```print("Hello, World")```
 
 # Tìm hiều về ngôn ngữ lập trình RUBY 
 
