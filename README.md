@@ -12,3 +12,5 @@ I will update all my Ruby projects on this.
 ## *Ngôn ngữ Ruby được ứng dụng như thế nào ?* 
 * Ruby chủ yếu được sử dụng để xây dựng các ứng dụng web và rất hữu ích cho các dự án lập trình khác, thường được sử dụng rộng rãi để xây dựng máy chủ và xử lý dữ liệu, quét web và thu thập thông tin
 * Framework hàng đầu để chạy Ruby là Ruby on Rails, mặc dù nó không phải là khung duy nhất.
+
+# Cách setup và cài đặt Ruby trên Windows 
