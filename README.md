@@ -29,3 +29,6 @@ I will update all my Ruby projects on this.
   2. SQLite3
 * [Cài đặt Ruby](https://rubyinstaller.org/)
 * [Cài đặt SQLite3](https://www.sqlite.org/)
+
+＃＃＃ *** SQLite là gì ? ***
+
