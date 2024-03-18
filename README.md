@@ -23,7 +23,7 @@ I will update all my Ruby projects on this.
  *  ***Một cách dễ dàng để hình dung mối quan hệ giữa ngôn ngữ lập trình và khung phát triển web là một ngôi nhà trên một hòn đảo. Ruby là hòn đảo, và Rails là ngôi nhà được xây trên đỉnh của hòn đảo.***
  *   ***Ruby on Rails phụ thuộc vào Ruby để tồn tại và hoạt động. Mặt khác, Ruby không yêu cầu Rails hoạt động và thường được sử dụng mà không cần sử dụng thêm Rails. Nói một cách đơn giản, Ruby on Rails là một phần nâng cao hoặc phần bổ sung cho Ruby.***
 
-![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/69191396-1118-4e67-99e2-695f7875186a)
+   ***            ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/69191396-1118-4e67-99e2-695f7875186a)  ***
 
  
 ***
