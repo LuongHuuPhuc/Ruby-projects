@@ -16,7 +16,7 @@ I will update all my Ruby projects on this.
 # Điều cần biết về Ruby và Ruby on Rails
 
  * Ruby là một ngôn ngữ lập trình có web framework(khung) hộ trợ là Ruby on Rails hay Rails.
- * *  Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
+ *  Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
  * Rails cũng được xem là một Gem.
  * RubyGems là trình quản lý các packages (gói mở rộng)/ thư viện cho ngôn ngữ Ruby.
  *  ***Rails không phải là một ngôn ngữ lập trình. Ruby on Rails là một khung công tác web. Các khuôn khổ ứng dụng web như Rails vẫn sử dụng các tập lệnh được viết bởi các nhà phát triển, nhưng chúng không sử dụng ngôn ngữ của riêng mình. Rails sử dụng ngôn ngữ lập trình Ruby.***
