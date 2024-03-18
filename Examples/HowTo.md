@@ -1,6 +1,7 @@
 # Cách để tạo một dự án đầu tiên
 *** 
-```php 
+```
+php 
 howto("creat your first project");
 ```
 
