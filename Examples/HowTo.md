@@ -13,7 +13,8 @@ howto("creat your first project");
 ***
 ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/c4f75083-8698-4291-9f00-3ff9d284f17a)
 
-Khi đó chương trình sẽ tự động tạo cho chúng ta project đó.
+Khi đó chương trình sẽ tự động tạo cho chúng ta project.
+
 ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/8b9db127-27fa-492b-a34c-cc82651373c9)
 
 Tuy nhiên để chạy được ứng dụng thì chúng ta cần sử dụng một HTTP web server để phục vụ việc chạy ứng dụng. Với Ruby on Rails chúng ta cũng có thể sử dụng Apache, tuy nhiên điều tuyệt vời ở Rails đó là bạn có thể sử dụng câu lệnh rails để tạo server cho ứng dụng thay vì phải cài đặt và cấu hình Apache. Web server được cung cấp bởi Ruby on Rails có tên là WEBrick và để khởi động WEBrick bạn các dòng lệnh sau:
