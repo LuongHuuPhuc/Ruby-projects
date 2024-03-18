@@ -16,14 +16,13 @@ I will update all my Ruby projects on this.
 # Điều cần biết về Ruby và Ruby on Rails
 
  * Ruby là một ngôn ngữ lập trình có web framework(khung) hộ trợ là Ruby on Rails hay Rails.
- *  Rails không phải là một ngôn ngữ lập trình. Ruby on Rails là một khung công tác web. Các khuôn khổ ứng dụng web như Rails vẫn sử dụng các tập lệnh được viết bởi các nhà phát triển, nhưng chúng không sử dụng ngôn ngữ của riêng mình. Rails sử dụng ngôn ngữ lập trình Ruby.
- *  Một cách dễ dàng để hình dung mối quan hệ giữa ngôn ngữ lập trình và khung phát triển web là một ngôi nhà trên một hòn đảo. Ruby là hòn đảo, và Rails là ngôi nhà được xây trên đỉnh của hòn đảo.
- *   Ruby on Rails phụ thuộc vào Ruby để tồn tại và hoạt động. Mặt khác, Ruby không yêu cầu Rails hoạt động và thường được sử dụng mà không cần sử dụng thêm Rails. Nói một cách đơn giản, Ruby on Rails là một phần nâng cao hoặc phần bổ sung cho Ruby. 
- * Gems còn được biết là các thư viện của Ruby.
- *  Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
+ * *  Rails là một framework được viết bằng ngôn ngữ Ruby và nó là 1 full-stack framework (view, controller, database/model).
  * Rails cũng được xem là một Gem.
  * RubyGems là trình quản lý các packages (gói mở rộng)/ thư viện cho ngôn ngữ Ruby.
-
+ *  ***Rails không phải là một ngôn ngữ lập trình. Ruby on Rails là một khung công tác web. Các khuôn khổ ứng dụng web như Rails vẫn sử dụng các tập lệnh được viết bởi các nhà phát triển, nhưng chúng không sử dụng ngôn ngữ của riêng mình. Rails sử dụng ngôn ngữ lập trình Ruby.***
+ *  ***Một cách dễ dàng để hình dung mối quan hệ giữa ngôn ngữ lập trình và khung phát triển web là một ngôi nhà trên một hòn đảo. Ruby là hòn đảo, và Rails là ngôi nhà được xây trên đỉnh của hòn đảo.***
+ *   ***Ruby on Rails phụ thuộc vào Ruby để tồn tại và hoạt động. Mặt khác, Ruby không yêu cầu Rails hoạt động và thường được sử dụng mà không cần sử dụng thêm Rails. Nói một cách đơn giản, Ruby on Rails là một phần nâng cao hoặc phần bổ sung cho Ruby.***
+ 
 ***
 # Cách setup và cài đặt môi trường Rails cho Ruby trên Windows 
 * [Hướng dẫn cài đặt](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails)
