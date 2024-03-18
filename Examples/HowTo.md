@@ -16,8 +16,13 @@ howto("creat your first project");
 Khi đó chương trình sẽ tự động tạo cho chúng ta project đó.
 ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/8b9db127-27fa-492b-a34c-cc82651373c9)
 
-Tuy nhiên để chạy được ứng dụng thì chúng ta cần sử dụng một HTTP web server để phục vụ việc chạy ứng dụng. Với Ruby on Rails chúng ta cũng có thể sử dụng Apache, tuy nhiên điều tuyệt vời ở Rails đó là bạn có thể sử dụng câu lệnh rails để tạo server cho ứng dụng thay vì phải cài đặt và cấu hình Apache. Web server được cung cấp bởi Ruby on Rails có tên là WEBrick và để khởi động WEBrick bạn chạy câu lệnh sau trên cửa sổ dòng lệnh:
-```<Ổ đĩa chứa folder project> ruby  bin/rails server``` 
+Tuy nhiên để chạy được ứng dụng thì chúng ta cần sử dụng một HTTP web server để phục vụ việc chạy ứng dụng. Với Ruby on Rails chúng ta cũng có thể sử dụng Apache, tuy nhiên điều tuyệt vời ở Rails đó là bạn có thể sử dụng câu lệnh rails để tạo server cho ứng dụng thay vì phải cài đặt và cấu hình Apache. Web server được cung cấp bởi Ruby on Rails có tên là WEBrick và để khởi động WEBrick bạn các dòng lệnh sau:
+```cd <Tên Dự Án>``` 
+![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/da1df25d-1ef1-4695-b638-9e8b7ea34755)
+*Kế tiếp màn hình sẽ nhảy tới:
+![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/04e4f29b-213d-4796-a971-63cb787d5c5d)
+Tiếp tục nhập lệnh sau:
+```tên Dự Án> ruby  bin/rails server``` 
 * Câu lệnh trên sẽ khởi động WEBrick. Nếu muốn dừng WeBrick, bạn dùng tổ hợp Ctrl + C.
 * Sau khi hoàn thành tạo server, trên màn hình command sẽ hiện ra một địa chỉ http cho server của bạn. Copy địa chỉ đó và Paste lên chrome hoặc google, màn hình sẽ hiện ra: ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/dd713cb1-4f14-463b-af12-1fcc0ecca43a)
 
