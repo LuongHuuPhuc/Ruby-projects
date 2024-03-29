@@ -21,7 +21,7 @@
   - Cmd sẽ hiện ra các dòng sau: 
   ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/83449b0c-368b-437c-a4d8-ca315499f833)
 
- - Cơ bản đó sẽ là những câu lệnh để tương tác với Rails trong Command hay Terminal.
+ - Cơ bản đó sẽ là những câu lệnh/[options] để tương tác với Rails trong Command hay Terminal.
 1. Tạo một Model
    * Cú pháp để tạo Model trong Rails:
    ``` rails generate model NAME [thuộc tính[:type][:index]thuộc tính [:type][:index]] [options] ```
