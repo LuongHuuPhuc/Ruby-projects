@@ -49,7 +49,10 @@
 ### Lệnh generate là một công cụ rất mạnh mẽ trong Rails CLI, giúp bạn tạo ra và quản lý các thành phần cơ bản của ứng dụng một cách hiệu quả và tiết kiệm thời gian.
 
 ## Rails console (rails c)
-*Câu lệnh này giúp chúng ta tương tác với ứng dụng Rails thông qua command line. Truy vấn database hay chạy thử các hàm trong ứng dụng.
+``` php
+rails c
+```
+* Câu lệnh này giúp chúng ta tương tác với ứng dụng Rails thông qua command line. Truy vấn database hay chạy thử các hàm trong ứng dụng.
  ***
 ## LƯU Ý 
 * Sau khi chạy lệnh generate, bạn cần chạy lệnh `rails db:migrate` để thực thi các file migration và cập nhật cơ sở dữ liệu.
