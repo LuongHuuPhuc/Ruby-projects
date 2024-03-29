@@ -1,5 +1,6 @@
 # NHỮNG CÂU LỆNH PHỔ BIẾN TRONG RAILS
 ***
+## **Đây là những câu lệnh để tương tác với Rails thông qua Command Prompt của Hệ điều hành Windows**
 ## Rails new
   - Đây là câu lệnh phổ biến dùng để tạo file, úng dụng trên Rails, cú pháp:
   ``` php
@@ -39,7 +40,7 @@
   * Ví dụ:  ```rails generate migration AddStatusToProducts status:string ```
     > Lệnh này sẽ tạo ra một file migration để thêm cột **status** với kiểu dữ liệu string vào bảng **products**.
 4. Tạo một Scaffold
-    > ``` rails generate scaffold NAME [field[:type][:index]field[:type][:index]] [options] ```
+  *  ``` rails generate scaffold NAME [field[:type][:index]field[:type][:index]] [options] ```
 * Câu lệnh này tạo ra các files của một resource ở cả 3 thành phần chính như Model, View và Controller. Resource ở đây được xem như một Object, ví dụ như Post, User,...
 * Tức là có nhiều trường hợp, thay vì bạn phải dùng các câu lệnh trên để generate ra các Controller, Model hay View thì Scanffold giúp bạn tiết kiệm rất nhiều thời gian.
 * Ví dụ: ``` rails generate scaffold Post title:string content:string ```
@@ -52,7 +53,7 @@
  ***
 ## LƯU Ý 
 * Sau khi chạy lệnh generate, bạn cần chạy lệnh `rails db:migrate` để thực thi các file migration và cập nhật cơ sở dữ liệu.
- Luôn kiểm tra và chỉnh sửa các file được tạo ra bởi lệnh generate để đảm bảo chúng đáp ứng đúng yêu cầu và logic của ứng dụng bạn.
+* Luôn kiểm tra và chỉnh sửa các file được tạo ra bởi lệnh generate để đảm bảo chúng đáp ứng đúng yêu cầu và logic của ứng dụng bạn.
 
 
 
