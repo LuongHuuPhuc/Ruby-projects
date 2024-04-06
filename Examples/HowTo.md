@@ -1,4 +1,4 @@
-# Cách để tạo một dự án đầu tiên
+# Cách để tạo một dự án đầu tiên với Rails
 *** 
 ```php 
 howto("creat your first project");
