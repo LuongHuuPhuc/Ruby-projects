@@ -3,7 +3,8 @@
 ``` php
 set HelloWorld!
 ```
-## ***Vim là gì ?***
+## ***Vim là gì ?*** ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/d1f6ac27-fb5c-4c1f-a043-5c0e57d29ef2)
+
 - Vim là một trình biên soạn văn bản mã nguồn mở (text editor).
 - Giao diện gọn gàng đơn giản, không tốn nhiều dung lượng.
 - Vim là có hẳn 1 bộ các phím tắt và quy ước sẵn, cần học thuộc đống quy tắc đó thì mới "pro" Vim được.
