@@ -8,7 +8,7 @@ set HelloWorld!
 - Giao diện gọn gàng đơn giản, không tốn nhiều dung lượng.
 - Vim là có hẳn 1 bộ các phím tắt và quy ước sẵn, cần học thuộc đống quy tắc đó thì mới "pro" Vim được.
 - Ngoài các quy ước về phím tắt riêng thì Vim còn có các lệnh dùng để thực thi với tập tin và file, các lệnh đó được viết sau dấu `:` trong chế độ *Normal* và *Visual*.
-## *** Các Mode trong Vim*** 
+## ***Các Mode trong Vim*** 
 * Vim có nhiều mode nhưng thông thường, bạn sẽ làm việc chủ yếu với 3 mode cơ bản:
    - Insert mode: Mode này cho phép bạn nhập, chỉnh sửa văn bản từ bàn phím. Nhấn nút `I` để chuyển sang mode này.
    - Normal mode: Mode này giúp bạn thực hiện các lệnh command, tương tác với text object. Nhấn nút `Esc` để chuyển sang mode này.
