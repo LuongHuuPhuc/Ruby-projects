@@ -28,4 +28,22 @@ Tiếp tục nhập lệnh sau:
 * Sau khi hoàn thành tạo server, trên màn hình command sẽ hiện ra một địa chỉ http cho server của bạn. Copy địa chỉ đó và Paste lên chrome hoặc google, màn hình sẽ hiện ra: ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/dd713cb1-4f14-463b-af12-1fcc0ecca43a)
 
 ## Vậy là đã tạo thành công project.
-
+## Tuy nhiên chưa dừng ở đó...
+Đây mới chỉ là bước khởi động Server và tạo file trong dự án thôi. Để có thể code và tạo ra một trang web thì sau đây là những bước cần thự hiện
+*** 
+### A. Create a new Rails Application !
+1. Vào ổ chứa file làm dự án của mình (ổ C,D,...). Ở thanh path, nhập chữ ***cmd** để vào Command Prompt(đối với Windows, còn Terminal đối với Linux).
+ ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/979e408a-ec73-4ce5-bc63-3bebe8b2c583)
+2. Ở đây, dùng lệnh `cd` + [Tên folder chứa dự án] để trỏ vào folder cần làm việc.
+   > Ví dụ folder dùng để lưu dự án của mình là "RubyonRails".
+   ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/27c86744-0440-4729-b27d-bcc8fda746c5)
+3. Làm tương tự tiếp tục như trên với lệnh `cd` vào dự án cần làm. Nếu chưa tạo dự án thì quay lại mục trên để xem cách tạo folder dự án Ruby on Rails.
+4. Dùng lệnh `ls` để kiểm tra các thư mục và các file hiện có trong folder.
+![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/9b78bf7e-b9a3-4806-8bc1-44b4b9027911)
+5. Tiếp theo dùng lệnh `bundle install` để cài đặt gem vào trong dự án cần làm.
+ ![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/01e7edd5-5ffb-4add-8b36-91ab8981ea96)
+6. Sau khi cài đặt xong gem, sử dụng trình đọc text, chỉnh sửa văn bản code bất kỳ để mở Folder dự án đó lên( Mac Os có Sublime text, nhưng mình dùng Windows nên recommend mọi người sử dụng ***Vim***, vì ***Vim*** siêu mạnh trong việc này)
+![image](https://github.com/LuongHuuPhuc/Ruby-projects/assets/156191563/ce9f47e8-384f-4a0b-b335-623fb7ae8b0d)
+- Lúc này màn hình sẽ hiện ra các file và các folder trong dự án của bạn.
+- Và đừng quên khởi động cả server nữa nhé. `rails server`.
+### B. Tạo một Web "Welcome"
