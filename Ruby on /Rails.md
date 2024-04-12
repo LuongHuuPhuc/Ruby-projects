@@ -27,7 +27,7 @@
    ``` rails generate model NAME [thuộc tính[:type][:index]thuộc tính [:type][:index]] [options] ```
    * Ví dụ như bạn muốn tạo một Model tên **Post** với 2 field/thuộc tính là **title** và **content** với kiểu string thì câu lệnh sẽ là :
      ``` rails generate model Post title:string content:string ```
-> Lệnh này sẽ tạo ra một file Migration để tạo bảng **"posts"*** trong cơ sở dữ liệu, cùng với file model **"Post"** với các thuộc tính **title** và **content** .
+> Lệnh này sẽ tạo ra một file Migration để tạo bảng **"posts"** trong cơ sở dữ liệu, cùng với file model **"Post"** với các thuộc tính **title** và **content** .
 > ***file Migration*** là file là một file chứa thông tin về các thay đổi cơ sở dữ liệu. Migration giúp bạn quản lý và cập nhật cấu trúc cơ sở dữ liệu của ứng dụng một cách linh hoạt và tự động. Khi bạn tạo hoặc thay đổi một model trong Rails, bạn thường sẽ sử dụng lệnh generate để tạo ra một file migration. File này sẽ chứa các chỉ thị và câu lệnh cần thiết để thực hiện các thay đổi cơ sở dữ liệu, như tạo bảng, thêm cột, xóa cột, và nhiều hơn nữa.
 2. Tạo một Controller
   * Cú pháp để tạo một Controller cho ứng dụng:
