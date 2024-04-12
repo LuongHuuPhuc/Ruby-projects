@@ -47,3 +47,4 @@ Tiếp tục nhập lệnh sau:
 - Lúc này màn hình sẽ hiện ra các file và các folder trong dự án của bạn.
 - Và đừng quên khởi động cả server nữa nhé. `rails server`.
 ### B. Tạo một Web "Welcome"
+1. Đầu tiên tạo một file *Controller* 
