@@ -57,6 +57,7 @@ rails c
 ## LƯU Ý 
 * Sau khi chạy lệnh generate, bạn cần chạy lệnh `rails db:migrate` để thực thi các file migration và cập nhật cơ sở dữ liệu.
 * Luôn kiểm tra và chỉnh sửa các file được tạo ra bởi lệnh generate để đảm bảo chúng đáp ứng đúng yêu cầu và logic của ứng dụng bạn.
-
+### Trang chủ chính thức của Rails cũng có viết vể cách dùng những câu lệnh này
+[Command Line in Rails](https://guides.rubyonrails.org/command_line.html)
 
 
