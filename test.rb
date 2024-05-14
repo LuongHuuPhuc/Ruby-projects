@@ -173,7 +173,7 @@ end
 #Cu phap cua hash: hash[_name_] 
 hash = {"color"=> "Green", "number"=>100, 0 => "blue"}
 #phien ban ruby 1.9 tro len, chung ta co the viet doan ma theo cau truc ngan gon hon:
-hash = {color: "Green", number:"100", }
+hash = {color: "Green", number:"100" }
 puts "#{hash['color']}"
 puts "#{hash['number']}"
 puts "#{hash[0]}"
