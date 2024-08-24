@@ -1,5 +1,6 @@
 #puts hiển thị giá trị ở mỗi dòng mới
 #print sẽ hiển thị theo kiểu mảng hay nil tốt hơn puts 
+# Để compile và Run code Ruby trên Terminal hay Commander, ta dùng lệnh `Ruby + tên file.rv` 
 def Say
   puts "Xin chao"
 end
