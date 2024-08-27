@@ -172,9 +172,9 @@ end
 #5. Hash 
 #Trong Ruby, kiểu dữ liệu hash tương tự như mảng với giá trị khoá có thể là 1 chuỗi, 1 số hay một đối tượng object thay vì số.
 #Cu phap cua hash: hash[_name_] 
-hash = {"color"=> "Green", "number"=>100, 0 => "blue"}
+hash = {"color"=> "Green", "number"=>100, 0 => "blue"}　#Kiểu khóa-giá trị (Key-Value)
 #phien ban ruby 1.9 tro len, chung ta co the viet doan ma theo cau truc ngan gon hon:
-hash = {color: "Green", number:"100" }
+hash = {color: "Green", number:"100" } #Kiểu Symbol
 puts "#{hash['color']}"
 puts "#{hash['number']}"
 puts "#{hash[0]}"
