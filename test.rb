@@ -185,10 +185,24 @@ person = {
   age : 30,
   city: "Wonderland"  
 }
+#Them mot cap Key-value moi 
+person[:email] = "alice@exmaple.com"
 
+#Truy cap gia tri 
 puts person[:name] #Output:Alice
 puts person[:age] #Output:30
 puts person[:city] #Output:Wonderland 
+
+#Cap nhat gia tri moi
+person[:age] = 31
+
+#Xoa mot cap Key-Value 
+person.delete[:city]
+
+#Duyet qua tat ca cac cap Key-value
+person.each do |key,value|
+  puts "#{key}, #{value}"
+end 
 
 #Range, Array va Hash
 array = (1..5).to_a
