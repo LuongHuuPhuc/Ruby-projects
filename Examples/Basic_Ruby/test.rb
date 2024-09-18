@@ -1,5 +1,6 @@
 #puts hiển thị giá trị ở mỗi dòng mới
 #print sẽ hiển thị theo kiểu mảng hay nil tốt hơn puts 
+#Để compile và Run code Ruby trên Terminal hay Commander, ta dùng lệnh: Ruby + tên file.rb
 def Say
   puts "Xin chao"
 end
@@ -171,9 +172,9 @@ end
 #5. Hash 
 #Trong Ruby, kiểu dữ liệu hash tương tự như mảng với giá trị khoá có thể là 1 chuỗi, 1 số hay một đối tượng object thay vì số.
 #Cu phap cua hash: hash[_name_] 
-hash = {"color"=> "Green", "number"=>100, 0 => "blue"}
+hash = {"color"=> "Green", "number"=>100, 0 => "blue"}　#Kiểu khóa-giá trị (Key-Value)
 #phien ban ruby 1.9 tro len, chung ta co the viet doan ma theo cau truc ngan gon hon:
-hash = {color: "Green", number:"100", }
+hash = {color: "Green", number:"100" } #Kiểu Symbol
 puts "#{hash['color']}"
 puts "#{hash['number']}"
 puts "#{hash[0]}"
@@ -184,10 +185,24 @@ person = {
   age : 30,
   city: "Wonderland"  
 }
+#Them mot cap Key-value moi 
+person[:email] = "alice@exmaple.com"
 
+#Truy cap gia tri 
 puts person[:name] #Output:Alice
 puts person[:age] #Output:30
 puts person[:city] #Output:Wonderland 
+
+#Cap nhat gia tri moi
+person[:age] = 31
+
+#Xoa mot cap Key-Value 
+person.delete[:city]
+
+#Duyet qua tat ca cac cap Key-value
+person.each do |key,value|
+  puts "#{key}, #{value}"
+end 
 
 #Range, Array va Hash
 array = (1..5).to_a
@@ -198,4 +213,3 @@ sub_hash = hash.select {|k,v|range.include?(k)}
 #.select: Chọn các key_value của hash dựa trên phạm vị range đã tạo
 puts sub_hash.inspect  # Output: {:a=>1, :b=>2, :c=>3}
 #.inspect: Trả về chuỗi biểu diễn của sub_hash 
-
